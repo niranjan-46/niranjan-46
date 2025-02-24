@@ -5,7 +5,7 @@
 🌍 **Website:** [niranjan.cloud](https://niranjan.cloud)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=0FF7F7&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+there!+I'm+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;I+Build+Scalable+CI%2FCD+Pipelines+%26+Optimize+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey,+This+is+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;Building+Scalable+Infrastructure+%26+CI%2FCD+Pipelines" />
 </p>
 
 <div align="center">  
@@ -51,27 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan-46&theme=tokyonight&hide_border=false" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-### 🔝 **Top Contributed Repos**  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=niranjan-46&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-### 📈 **3D Contribution Graph**  
-<p align="center">  
-  <img src="https://github.com/Niranjan-46/Niranjan-46/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />  
-</p>
-
----
-
-### 🏆 **GitHub Trophies**  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjan-46&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
