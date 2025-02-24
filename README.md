@@ -11,3 +11,11 @@ DevOps Engineer | Cloud Enthusiast | Automation Geek
 
 💼 Docker Hub: niranjan46
 📫 Reach Me: LinkedIn | Email
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/niranjan-46/count.svg?"  />
+</div>
+
+###
