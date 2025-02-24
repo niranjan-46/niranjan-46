@@ -76,4 +76,8 @@ DevOps Engineer | Cloud Enthusiast | Automation Geek
 
 <h1 align="left">Hello World!!</h1>
 
+<img src="https://raw.githubusercontent.com/niranjan-46/niranjan-46/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
