@@ -1,12 +1,4 @@
-Here's your **optimized GitHub README** with:  
-✔ **All skills in a single row**  
-✔ **Highlighted key achievements**  
-✔ **Animated elements**  
-✔ **Better layout & readability**  
-
----
-
-# 🚀 **About Me**  
+  
 ### Hi there! 👋 I'm **Niranjan Rao Annvarapu**  
 💻 **DevOps Engineer** | ☁️ **Cloud Enthusiast** | ⚡ **Automation Geek**  
 
