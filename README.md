@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Status**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niranjan-46&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
@@ -64,14 +64,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=niranjan-46&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-### 🐍 **Contribution Graph - Snake Animation**  
-<div align="center">
-  <img src="https://github.com/niranjan-46/niranjan-46/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## 🌍 **Let's Connect!**  
 <p align="center">
