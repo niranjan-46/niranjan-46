@@ -5,13 +5,8 @@
 🌍 **Website:** [niranjan.cloud](https://niranjan.cloud)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=007ACC&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey,+This+is+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;Building+Scalable+Infrastructure+%7C+Creating+Robust+CI%2FCD+Pipelines;Optimizing+Cloud+Deployments+%7C+Enhancing+System+Reliability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=007ACC&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey,+This+is+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;Building+Scalable+Infrastructure+%26+CI%2FCD+Pipelines" />
 </p>
-
-
-
-
-
 
 
 <div align="center">  
