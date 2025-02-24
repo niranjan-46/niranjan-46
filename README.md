@@ -65,11 +65,27 @@
 
 ---
 
-### 🔝 **Top Contributed Repos**  
+## 🔝 **Top Public Repositories (Auto-Updated)**  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=niranjan-46&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
+---
+
+## 🏗️ **Open Work & Project Management**  
+💡 **Looking for collaborations in:**  
+- Cloud Automation & Infrastructure as Code  
+- CI/CD Pipeline Optimization  
+- Kubernetes & Container Orchestration  
+- Monitoring & Logging with Prometheus & Grafana  
+
+🚀 **Freelancing Availability:**  
+✔ Open for short-term & long-term freelance DevOps projects.  
+✔ Let's build something amazing!  
+
+📩 **Reach out:** [niranjancloud9@gmail.com](mailto:niranjancloud9@gmail.com)  
+
+---
 
 ## 🌍 **Let's Connect!**  
 <p align="center">
@@ -81,9 +97,6 @@
   </a>
   <a href="https://x.com/niranjanan28651" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:niranjancloud9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hub.docker.com/u/niranjan46">
     <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
