@@ -15,7 +15,9 @@ DevOps Engineer | Cloud Enthusiast | Automation Geek
 📊 GitHub Stats & Contributions
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niranjan-46&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan-46&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> </div>
 
-<div align="center"> <img src="https://github.com/niranjan-46/niranjan-46/blob/output/github-contribution-grid-snake.svg" /> </div>
+<img src="https://raw.githubusercontent.com/niranjan-46/niranjan-46/output/snake.svg" alt="Snake animation" />
+
+###
 
  Let's Connect!
 <div align="left"> <a href="http://www.linkedin.com/in/niranjan-rao-annavarapu" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /> </a> <a href="https://x.com/niranjanan28651?s=21&t=ZwRQFbteB3_Wta00haEuiA" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" /> </a> <a href="mailto:niranjancloud9@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /> </a> </div>
