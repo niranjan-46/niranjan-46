@@ -50,11 +50,4 @@ DevOps Engineer | Cloud Enthusiast | Automation Geek
 ###
 
 
-<div align="center"> <img src="https://github.com/niranjan-46/niranjan-46/blob/output/github-contribution-grid-snake.svg" /> </div>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/niranjan-46/count.svg?"  />
-</div>
-
 ###
