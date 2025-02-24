@@ -12,6 +12,15 @@
   <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="600" alt="DevOps Animation" />  
 </div>  
 
+---
+
+### 🌍 **DevOps & Cloud Representation**  
+<p align="center">
+  <img src="https://www.computer.org/cms/Computer.org/ComputingNow/icons/devops-cloud.png" width="600" alt="DevOps & Cloud Representation" />
+</p>  
+
+---
+
 🚀 **Key Highlights**:  
 ✅ **Deployed 20+ Real-Time Projects**  
 ✅ **Managing & Monitoring 5+ Environments**  
