@@ -5,8 +5,9 @@
 🌍 **Website:** [niranjan.cloud](https://niranjan.cloud)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=007ACC&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey,+This+is+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;Building+Scalable+Infrastructure+%26+CI%2FCD+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=007ACC&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey,+This+is+Niranjan+🚀;DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Geek;Building+Scalable+Infrastructure+%7C+Creating+Robust+CI%2FCD+Pipelines;Optimizing+Cloud+Deployments+%7C+Enhancing+System+Reliability" />
 </p>
+
 
 <div align="center">  
   <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="600" alt="DevOps Animation" />  
