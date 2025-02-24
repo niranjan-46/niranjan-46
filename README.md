@@ -63,6 +63,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/niranjan-46/count.svg?"  />
+</div>
+
+###
 ---
 
 
