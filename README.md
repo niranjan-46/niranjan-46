@@ -84,73 +84,7 @@
 <p align="center">
   <a href="https://niranjan.cloud" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a># 🌟 **Welcome to My Digital Universe!** 🌟
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Niranjan%20Rao%20Annvarapu&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20DevOps%20Engineer%20%7C%20%E2%98%81%EF%B8%8F%20Cloud%20Architect%20%7C%20%E2%9A%A1%20Automation%20Wizard&descSize=20&descAlignY=55" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%92%BB;Scaling+Infrastructure+%F0%9F%93%88+Automating+Dreams+%F0%9F%A4%96;Crafting+Robust+CI%2FCD+Pipelines+%F0%9F%94%A7;Turning+Coffee+into+Cloud+Solutions+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%E2%98%81%EF%B8%8F" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="DevOps Magic" />
-</div>
-
----
-
-## 🎯 **Mission Control Dashboard**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.vercel.app?user=niranjan-46&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=niranjan-46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-## 🛡️ **Tech Arsenal & Superpowers**
-
-<div align="center">
-
-### **☁️ Cloud Platforms**
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
-
-### **🔧 DevOps & Infrastructure**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,github,gitlab&theme=dark" />
-
-### **📊 Monitoring & Analytics**
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
-
-### **💻 Programming & Scripting**
-<img src="https://skillicons.dev/icons?i=python,bash,go,yaml&theme=dark" />
-
-### **🗄️ Databases & Storage**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
-
-### **🌐 Web & Networking**
-<img src="https://skillicons.dev/icons?i=nginx,apache,linux&theme=dark" />
-
-</div>
-
----
-
-## 📊 **Code Analytics & Activity**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
-
+  </a>
   <a href="http://www.linkedin.com/in/niranjan-rao-annavarapu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
