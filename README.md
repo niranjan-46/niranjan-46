@@ -21,7 +21,7 @@
 ✅ **Expert in CI/CD, AWS, Kubernetes, Terraform**  
 ✅ **Automating Infrastructure & Cloud Deployments**  
 
-🔹 **Role:** Associate Software Engineer @ Dyashin Technosoft Pvt Ltd  
+🔹 **Role:** Devops Engineer @ Dyashin Technosoft Pvt Ltd  
 🔹 **Experience:** DevOps, CI/CD, AWS (EC2, S3, VPC, Security Groups), Docker, Terraform, Kubernetes (learning)  
 🔹 **Passionate About:** Infrastructure Automation, Deployment Pipelines, Cloud Optimization  
 🔹 **GitHub Interests:** Open-source contributions, automation scripts, and cloud-native projects  
