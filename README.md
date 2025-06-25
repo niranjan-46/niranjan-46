@@ -29,30 +29,14 @@
   </table>
 </div>
 
-## 🚀 **Achievement Vault**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjan-46&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-**🏆 Career Highlights:**
-```yaml
-🎯 Projects Deployed: 20+ Production-Ready Applications
-🔥 Environments Managed: 5+ Multi-Cloud Infrastructures  
-⚡ Automation Scripts: 50+ Custom Solutions
-🌐 Uptime Achieved: 99.9% Service Reliability
-📈 Performance Boost: 300% Pipeline Efficiency
-🔒 Security Implementations: Zero-Trust Architecture
-```
-
----
 
 ## 🛡️ **Tech Arsenal & Superpowers**
 
 <div align="center">
 
 ### **☁️ Cloud Platforms**
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
 
 ### **🔧 DevOps & Infrastructure**
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,github,gitlab&theme=dark" />
@@ -102,7 +86,7 @@ class NiranjanRao:
         self.expertise = [
             "Infrastructure as Code 🏗️",
             "CI/CD Pipeline Architecture 🔄",
-            "Cloud Migration & Optimization ☁️",
+            "AWS & GCP Cloud Solutions ☁️",
             "Container Orchestration 🐳",
             "Monitoring & Observability 📈"
         ]
@@ -132,8 +116,8 @@ class NiranjanRao:
 
 ### **🤝 Let's Build Something Amazing Together!**
 
-🔹 **Infrastructure Automation & Terraform Modules**  
 🔹 **Advanced CI/CD Pipeline Architectures**  
+🔹 **AWS & GCP Cloud Infrastructure**  
 🔹 **Cloud-Native Application Deployments**  
 🔹 **Monitoring & Observability Solutions**  
 🔹 **DevSecOps & Security Automation**  
@@ -156,6 +140,9 @@ class NiranjanRao:
   </a>
   <a href="https://hub.docker.com/u/niranjan46" target="_blank">
     <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
+  </a>
+  <a href="https://www.credly.com/users/annavarapu-niranjan-rao" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=FF6B00" />
   </a>
   <a href="mailto:niranjancloud9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
