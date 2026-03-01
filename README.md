@@ -17,7 +17,7 @@
 
 🚀 **Key Highlights**:  
 ✅ **Deployed 20+ Real-Time Projects**  
-✅ **Managing & Monitoring 5+ Environments**  
+✅ **Managing & Monitoring 15+ Environments**  
 ✅ **Expert in CI/CD, AWS, Kubernetes, Terraform**  
 ✅ **Automating Infrastructure & Cloud Deployments**  
 
