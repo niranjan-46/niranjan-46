@@ -1,135 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A6B,100:2E5DA8&height=200&section=header&text=Niranjan%20Rao%20Annavarapu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20DevSecOps&descSize=16&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0000,100:E50914&height=220&section=header&text=NIRANJAN%20RAO&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descSize=17&descAlignY=65&animation=fadeIn&fontAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=4A9EFF&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-grade+cloud+infra+%F0%9F%9A%80;DevSecOps+pipelines+%7C+8+stages+%7C+4+projects;99.9%25+uptime+across+12+production+apps;AWS+%E2%80%A2+GCP+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=E50914&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+Cloud+Infrastructure;%24+uptime+%E2%86%92+99.9%25+across+12+production+apps;%24+git+log+%E2%86%92+8-stage+DevSecOps+pipelines+%7C+4+projects;%24+kubectl+get+infra+%E2%86%92+AWS+%2B+GCP+%7C+24+environments)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/niranjan-rao-annavarapu)
-[![Website](https://img.shields.io/badge/niranjan.cloud-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://niranjan.cloud)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanannavarapu@gmail.com)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/niranjan46)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/niranjanan28651)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/─_LinkedIn_─-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](http://www.linkedin.com/in/niranjan-rao-annavarapu)
+[![Website](https://img.shields.io/badge/─_niranjan.cloud_─-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://niranjan.cloud)
+[![Email](https://img.shields.io/badge/─_Email_─-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:niranjanannavarapu@gmail.com)
+[![Credly](https://img.shields.io/badge/─_Credly_─-E50914?style=for-the-badge&logo=credly&logoColor=white&labelColor=0D0D0D)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
+[![Docker Hub](https://img.shields.io/badge/─_Docker_Hub_─-E50914?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D)](https://hub.docker.com/u/niranjan46)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `$ cat /etc/niranjan.conf`
 
-```yaml
-name: Niranjan Rao Annavarapu
-role: DevOps Engineer @ Dyashin TechnoSoft Pvt. Ltd.
-experience: 2 years
-location: Bengaluru, India
-
-current_focus:
-  - Managing 12 production apps across 24 environments (AWS + GCP)
-  - 8-stage DevSecOps pipelines: build → SAST → DAST → Trivy → push → staging → gate → prod
-  - 99.9% uptime | 65% reduction in manual deployment effort
-  - Targeting Senior DevOps / SRE roles at product companies (15–25 LPA)
-
-certifications:
-  - AWS Certified Solutions Architect – Associate (valid Jan 2029)
-  - Google Professional Cloud Architect (valid Feb 2028)
-  - GitHub Foundations (valid Mar 2028)
-
-credly: https://www.credly.com/users/niranjan-rao-annavarapu/badges
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                    SYSTEM PROFILE — LOADED                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME       →  Niranjan Rao Annavarapu                           ║
+║  ROLE       →  DevOps Engineer @ Dyashin TechnoSoft Pvt. Ltd.   ║
+║  LOCATION   →  Bengaluru, India                                  ║
+║  EXPERIENCE →  2 Years                                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  UPTIME          →  99.9% across 12 production applications      ║
+║  ENVIRONMENTS    →  24 (AWS + GCP)                               ║
+║  PIPELINE STAGES →  8  (build → scan → gate → deploy)           ║
+║  DEPLOY FREQ     →  Multiple per day                             ║
+║  EFFORT SAVED    →  65% reduction in manual deployments          ║
+║  DEVS SERVED     →  10+ engineers                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STATUS     →  [■■■■■■■■■■] OPERATIONAL                         ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🏆 Certifications
+## `$ cat /proc/certifications`
 
 <div align="center">
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
-[![GCP Architect](https://img.shields.io/badge/Google_Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
-[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
+| Badge | Certification | Valid Until | Verify |
+|-------|--------------|-------------|--------|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | **AWS Certified Solutions Architect – Associate** | Jan 2029 | [🔗 Credly](https://www.credly.com/users/niranjan-rao-annavarapu/badges) |
+| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Google Professional Cloud Architect** | Feb 2028 | [🔗 Credly](https://www.credly.com/users/niranjan-rao-annavarapu/badges) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | **GitHub Foundations** | Mar 2028 | [🔗 Credly](https://www.credly.com/users/niranjan-rao-annavarapu/badges) |
 
 </div>
 
 ---
 
-## ⚡ Key Metrics
+## `$ systemctl status devsecops-pipeline`
 
-<div align="center">
+```
+● devsecops-pipeline.service — 8-Stage Automated Delivery Pipeline
+     Loaded: loaded (/etc/pipeline/gitlab-ci.yml)
+     Active: active (running) — multiple deployments/day
+   Projects: Amrize (GCP) • DS Edify (AWS) • DS Jobby (AWS) • Holcim
 
-| Metric | Value |
-|--------|-------|
-| 🚀 Production Applications Managed | **12 apps** |
-| 🌍 Environments Managed | **24 environments** |
-| ⏱️ Pipeline Execution Time | **20–40 min (8 stages)** |
-| 📈 Manual Effort Reduction | **65%** via CI/CD automation |
-| ✅ Production Uptime | **99.9%** |
-| 👥 Developers Served | **10+ engineers** |
-| 🔁 Deployment Frequency | **Multiple per day** |
-| 🔐 Projects with Full DevSecOps | **4 projects** |
+STAGE 1  [✔]  BUILD          → Maven / Docker image build
+STAGE 2  [✔]  SAST           → SonarQube static analysis + quality gate
+STAGE 3  [✔]  DAST           → GitLab built-in dynamic scan
+STAGE 4  [✔]  TRIVY SCAN     → Container CVE scan → block on CRITICAL
+STAGE 5  [✔]  PUSH REGISTRY  → AWS ECR / GCP Container Registry
+STAGE 6  [✔]  DEPLOY STAGING → Validated environment rollout
+STAGE 7  [✔]  APPROVAL GATE  → Manual sign-off before production
+STAGE 8  [✔]  DEPLOY PROD    → Production release
 
-</div>
-
----
-
-## 🛡️ DevSecOps Pipeline
-
-```mermaid
-flowchart LR
-    A[📦 Build] --> B[🔍 SAST\nSonarQube]
-    B --> C[🌐 DAST\nGitLab Built-in]
-    C --> D[🐳 Trivy\nImage Scan]
-    D --> E[📤 Push\nECR / GCR]
-    E --> F[🧪 Deploy\nStaging]
-    F --> G[✅ Manual\nApproval Gate]
-    G --> H[🚀 Deploy\nProduction]
-
-    style A fill:#1e3a5f,color:#fff,stroke:#4A9EFF
-    style B fill:#1a4a2e,color:#fff,stroke:#4CAF50
-    style C fill:#1a4a2e,color:#fff,stroke:#4CAF50
-    style D fill:#1a4a2e,color:#fff,stroke:#4CAF50
-    style E fill:#1e3a5f,color:#fff,stroke:#4A9EFF
-    style F fill:#4a2e00,color:#fff,stroke:#FF9900
-    style G fill:#4a1a1a,color:#fff,stroke:#f44336
-    style H fill:#1a3a4a,color:#fff,stroke:#00BCD4
+  Security Tools : SonarQube (SAST+DAST) • Trivy • Wiz (CSPM/IaC)
+  Exec Time      : 20–40 minutes end-to-end
+  Manual Effort  : ↓ 65% since automation
 ```
 
-> Applied across: **Amrize (GCP)** • **DS Edify (AWS)** • **DS Jobby (AWS)** • **Holcim**
+---
+
+## `$ lsblk --tree /dev/cloud`
+
+```
+CLOUD INFRASTRUCTURE
+├── AWS
+│   ├── Compute        EC2 • App Runner • ECS
+│   ├── Network        VPC • ALB • Route 53 • NAT Gateway • Security Groups
+│   ├── Storage        S3 • ECR
+│   ├── Database       RDS (PostgreSQL)
+│   ├── IaC            CloudFormation • Terraform
+│   └── Monitoring     CloudWatch (metrics • logs • alarms)
+│
+└── GCP
+    ├── Compute        Cloud Run • App Engine • Compute Engine
+    ├── Database       Cloud SQL • Firestore
+    ├── Storage        Cloud Storage
+    ├── Security       IAM • Service Accounts • Workload Identity
+    └── Monitoring     Cloud Monitoring • Cloud Logging
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ dpkg --list | grep tools`
 
-### ☁️ Cloud Platforms
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/App_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-</p>
-
-### 🔁 CI/CD & DevSecOps
+### CI/CD & DevSecOps
 <p>
 <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
-<img src="https://img.shields.io/badge/Wiz-6528F7?style=for-the-badge&logo=wiz&logoColor=white" />
+<img src="https://img.shields.io/badge/Wiz_CSPM-6528F7?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🐳 Containers & IaC
+### Containers & Orchestration
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### Infrastructure as Code
+<p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -137,74 +144,62 @@ flowchart LR
 <img src="https://img.shields.io/badge/GCP_Monitoring-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-### 🧰 Languages & Tools
+### Languages & Shell
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## `$ tail -f /var/log/projects.log`
 
-<div align="center">
+```log
+[PRODUCTION]  Amrize ............. GCP | 12 apps | Cloud Run + App Engine + Cloud SQL
+              └─ CI/CD: GitLab | Security: SonarQube + Trivy + Wiz | Uptime: 99.9%
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niranjan-46&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9" />
+[PRODUCTION]  DS Edify ........... AWS | Learning Platform | EC2 + App Runner + RDS
+              └─ CI/CD: GitLab | VPC + ALB + Route 53 | CloudWatch Monitoring
 
-</div>
+[PRODUCTION]  DS Jobby ........... AWS | Job Portal | Docker + ECR + App Runner
+              └─ CI/CD: GitLab | Trivy Scanning | SonarQube SAST/DAST
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=niranjan-46&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=4A9EFF&ring=4A9EFF&fire=FF6B35&currStreakLabel=4A9EFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjan-46&theme=github-compact&bg_color=0D1117&color=4A9EFF&line=2E5DA8&point=4A9EFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-[![DS Edify](https://github-readme-stats.vercel.app/api/pin/?username=niranjan-46&repo=ds-edify-infra&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9)](https://github.com/niranjan-46)
-[![Holcim CI/CD](https://github-readme-stats.vercel.app/api/pin/?username=niranjan-46&repo=holcim-cicd-pipeline&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9)](https://github.com/niranjan-46)
-
-</div>
-
----
-
-## 🌐 Open for Collaboration
-
-```
-✅ Cloud Infrastructure Automation (AWS / GCP)
-✅ DevSecOps Pipeline Design & Optimization
-✅ Kubernetes & Container Orchestration
-✅ Monitoring & Observability (Prometheus + Grafana)
-✅ Infrastructure as Code (Terraform / Ansible)
-✅ Short-term & long-term freelance DevOps projects
+[AUTOMATED]   Holcim ............. GitLab CI/CD | Full 8-stage DevSecOps pipeline
+              └─ Wiz IaC scanning | 65% manual effort reduction | Prod-grade gates
 ```
 
-📩 **Reach out:** [niranjanannavarapu@gmail.com](mailto:niranjanannavarapu@gmail.com)
+---
+
+## `$ crontab -l  # open for collaboration`
+
+```cron
+# Available for:
+* * * * *   Cloud Infrastructure Automation  (AWS / GCP)
+* * * * *   DevSecOps Pipeline Design & Optimization
+* * * * *   Kubernetes & Container Orchestration
+* * * * *   Monitoring & Observability  (Prometheus + Grafana)
+* * * * *   IaC Reviews  (Terraform / Ansible)
+* * * * *   Freelance DevOps Projects  (short & long term)
+
+# Contact:
+0 9 * * *   echo "niranjanannavarapu@gmail.com"
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5DA8,50:1B3A6B,100:0D1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:1a0000,100:0D0D0D&height=130&section=footer&animation=fadeIn" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=niranjan-46&color=4A9EFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/niranjan-46)
+[![Profile Views](https://komarev.com/ghpvc/?username=niranjan-46&color=E50914&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/niranjan-46)
 
-*"Infrastructure is code. Reliability is a practice. Security is non-negotiable."*
+```bash
+$ echo "Infrastructure is code. Security is a pipeline stage. Reliability is non-negotiable."
+Infrastructure is code. Security is a pipeline stage. Reliability is non-negotiable.
+```
 
 </div>
