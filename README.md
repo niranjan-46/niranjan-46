@@ -174,6 +174,60 @@ CLOUD INFRASTRUCTURE
 
 ---
 
+## `$ prometheus --query "github_stats{user='niranjan-46'}"`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=niranjan-46&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=C9D1D9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=niranjan-46&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjan-46&theme=github-compact&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ grafana-cli dashboard view "niranjan-observability"`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  OBSERVABILITY STACK — PRODUCTION MONITORING DASHBOARD          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  PROMETHEUS  ──────────────────────────────────────────────     │
+│  › Scrape interval    : 15s                                      │
+│  › Metrics targets    : EC2 • Cloud Run • App Engine • RDS       │
+│  › Alerting rules     : CPU • Memory • Error rate • Latency      │
+│                                                                  │
+│  GRAFANA  ──────────────────────────────────────────────────    │
+│  › Dashboards         : Infrastructure • CI/CD • App Health      │
+│  › Data sources       : Prometheus • CloudWatch • GCP Logging    │
+│  › Alert channels     : Slack • Email • PagerDuty                │
+│                                                                  │
+│  CLOUDWATCH  ──────────────────────────────────────────────     │
+│  › Log groups         : EC2 • App Runner • RDS • Lambda          │
+│  › Alarms             : P99 latency • 5xx rate • Disk I/O        │
+│                                                                  │
+│  GCP MONITORING  ──────────────────────────────────────────     │
+│  › Uptime checks      : Cloud Run • App Engine endpoints         │
+│  › Log-based metrics  : Error rate • Deploy events               │
+│                                                                  │
+│  CURRENT STATUS  →  [■■■■■■■■■■]  99.9% UPTIME                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## `$ crontab -l  # open for collaboration`
 
 ```cron
