@@ -1,24 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0000,100:E50914&height=220&section=header&text=NIRANJAN%20RAO&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descSize=17&descAlignY=65&animation=fadeIn&fontAlign=50" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=E50914&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+Cloud+Infrastructure;%24+uptime+%E2%86%92+99.9%25+across+12+production+apps;%24+git+log+%E2%86%92+8-stage+DevSecOps+pipelines+%7C+4+projects;%24+kubectl+get+infra+%E2%86%92+AWS+%2B+GCP+%7C+24+environments)](https://git.io/typing-svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0000,100:E50914&height=220&section=header&text=NIRANJAN%20RAO&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descSize=17&descAlignY=65&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=E50914&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+Cloud+Infrastructure;%24+uptime+%E2%86%92+99.9%25+across+12+production+apps;%24+git+log+%E2%86%92+8-stage+DevSecOps+pipelines+%7C+4+projects;%24+kubectl+get+infra+%E2%86%92+AWS+%2B+GCP+%7C+24+environments)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/─_LinkedIn_─-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](http://www.linkedin.com/in/niranjan-rao-annavarapu)
-[![Website](https://img.shields.io/badge/─_niranjan.cloud_─-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://niranjan.cloud)
-[![Email](https://img.shields.io/badge/─_Email_─-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:niranjanannavarapu@gmail.com)
-[![Credly](https://img.shields.io/badge/─_Credly_─-E50914?style=for-the-badge&logo=credly&logoColor=white&labelColor=0D0D0D)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
-[![Docker Hub](https://img.shields.io/badge/─_Docker_Hub_─-E50914?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D)](https://hub.docker.com/u/niranjan46)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](http://www.linkedin.com/in/niranjan-rao-annavarapu)
+[![Website](https://img.shields.io/badge/niranjan.cloud-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://niranjan.cloud)
+[![Email](https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:niranjanannavarapu@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-E50914?style=for-the-badge&logo=credly&logoColor=white&labelColor=0D0D0D)](https://www.credly.com/users/niranjan-rao-annavarapu/badges)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-E50914?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D)](https://hub.docker.com/u/niranjan46)
 
 </div>
 
@@ -48,7 +42,7 @@
 
 ---
 
-## `$ cat /proc/certifications`
+## Certifications
 
 <div align="center">
 
@@ -108,7 +102,7 @@ CLOUD INFRASTRUCTURE
 
 ---
 
-## `$ dpkg --list | grep tools`
+## Tools & Technologies
 
 ### CI/CD & DevSecOps
 <p>
@@ -174,74 +168,28 @@ CLOUD INFRASTRUCTURE
 
 ---
 
-## `$ prometheus --query "github_stats{user='niranjan-46'}"`
+## Activity
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=niranjan-46&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=C9D1D9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-46&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=niranjan-46&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjan-46&theme=github-compact&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjan-46&theme=github-compact&bg_color=0D0D0D&color=E50914&line=E50914&point=FFFFFF&area=true&hide_border=true)](https://github.com/niranjan-46)
 
 </div>
 
 ---
 
-## `$ grafana-cli dashboard view "niranjan-observability"`
+## Open for Collaboration
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  OBSERVABILITY STACK — PRODUCTION MONITORING DASHBOARD          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  PROMETHEUS  ──────────────────────────────────────────────     │
-│  › Scrape interval    : 15s                                      │
-│  › Metrics targets    : EC2 • Cloud Run • App Engine • RDS       │
-│  › Alerting rules     : CPU • Memory • Error rate • Latency      │
-│                                                                  │
-│  GRAFANA  ──────────────────────────────────────────────────    │
-│  › Dashboards         : Infrastructure • CI/CD • App Health      │
-│  › Data sources       : Prometheus • CloudWatch • GCP Logging    │
-│  › Alert channels     : Slack • Email • PagerDuty                │
-│                                                                  │
-│  CLOUDWATCH  ──────────────────────────────────────────────     │
-│  › Log groups         : EC2 • App Runner • RDS • Lambda          │
-│  › Alarms             : P99 latency • 5xx rate • Disk I/O        │
-│                                                                  │
-│  GCP MONITORING  ──────────────────────────────────────────     │
-│  › Uptime checks      : Cloud Run • App Engine endpoints         │
-│  › Log-based metrics  : Error rate • Deploy events               │
-│                                                                  │
-│  CURRENT STATUS  →  [■■■■■■■■■■]  99.9% UPTIME                 │
-└─────────────────────────────────────────────────────────────────┘
+✅ Cloud Infrastructure Automation  (AWS / GCP)
+✅ DevSecOps Pipeline Design & Optimization
+✅ Kubernetes & Container Orchestration
+✅ Monitoring & Observability  (Prometheus + Grafana)
+✅ Infrastructure as Code  (Terraform / Ansible)
+✅ Freelance DevOps Projects  (short & long term)
 ```
 
----
-
-## `$ crontab -l  # open for collaboration`
-
-```cron
-# Available for:
-* * * * *   Cloud Infrastructure Automation  (AWS / GCP)
-* * * * *   DevSecOps Pipeline Design & Optimization
-* * * * *   Kubernetes & Container Orchestration
-* * * * *   Monitoring & Observability  (Prometheus + Grafana)
-* * * * *   IaC Reviews  (Terraform / Ansible)
-* * * * *   Freelance DevOps Projects  (short & long term)
-
-# Contact:
-0 9 * * *   echo "niranjanannavarapu@gmail.com"
-```
+📩 **niranjanannavarapu@gmail.com**
 
 ---
 
